@@ -1,0 +1,12 @@
+certifi==2022.6.15
+charset-normalizer==2.1.0
+crypto==1.4.1
+hashutils==0.0.3
+idna==3.3
+Naked==0.1.31
+pycryptodome==3.15.0
+PyYAML==6.0
+requests==2.28.1
+shellescape==3.8.1
+urllib3==1.26.10
+utility==1.0
